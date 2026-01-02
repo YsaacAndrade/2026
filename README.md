@@ -11,8 +11,9 @@ I want to learn Java because I enjoy its syntax, and I plan to use C to gain a d
 
 If you want to help, collaborate, or suggest ideas, feel free to reach out!
 
+Discord: MonaniAKR
+
 [X/Twitter](https://twitter.com/monaniakr)
 
 [LinkedIn](https://www.linkedin.com/in/ysaac-juarez-de-andrade-9b822030b/)
 
-[Discord](MonaniAKR)
