@@ -1,2 +1,2 @@
 # 2026
-For each day of this year, i want to made an project, the projects gonna be more bigger and complex with time!
+Throughout this year, I aim to build one project per day. Each project will gradually become bigger and more complex.
