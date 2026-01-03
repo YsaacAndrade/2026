@@ -11,6 +11,8 @@ I want to learn Java because I enjoy its syntax, and I plan to use C to gain a d
 
 If you want to help, collaborate, or suggest ideas, feel free to reach out!
 
+### LINKS
+
 Discord: MonaniAKR
 
 [YouTube](https://www.youtube.com/@AkiraMonaniStudies)
@@ -18,6 +20,8 @@ Discord: MonaniAKR
 [X/Twitter](https://twitter.com/monaniakr)
 
 [LinkedIn](https://www.linkedin.com/in/ysaac-juarez-de-andrade-9b822030b/)
+
+### PROGRESS LOG
 
 **Day 1** — Word program that takes user input, counts the number of characters, and checks whether the word is a palindrome.  
 *Difficulty: 1/10*
