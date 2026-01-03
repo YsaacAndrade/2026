@@ -15,8 +15,6 @@ If you want to help, collaborate, or suggest ideas, feel free to reach out!
 
 ### LINKS
 
-Discord: MonaniAKR
-
 - [YouTube](https://www.youtube.com/@AkiraMonaniStudies)
 
 - [X/Twitter](https://twitter.com/monaniakr)
