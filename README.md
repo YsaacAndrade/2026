@@ -17,13 +17,13 @@ Discord: MonaniAKR
 
 [LinkedIn](https://www.linkedin.com/in/ysaac-juarez-de-andrade-9b822030b/)
 
-**Day 1** — Word program that takes user input, counts the number of characters, and checks if the word is a palindrome.
-*Difficulty*: 1/10
+**Day 1** — Word program that takes user input, counts the number of characters, and checks whether the word is a palindrome.  
+*Difficulty: 1/10*
 
-**Day 2** — Program that calculates the famous E = mc², where the user provides the mass.
-*Difficulty*: 1/10
+**Day 2** — Program that calculates the famous E = mc², where the user provides the mass.  
+*Difficulty: 1/10*
 
-**Day 3** — A math game with 3 difficulties, 10 questions, and a maximum of 3 errors.
-*Difficulty*: 5/10
+**Day 3** — Math game with three difficulty levels, ten questions, and a maximum of three errors.  
+*Difficulty: 5/10*
 
 
