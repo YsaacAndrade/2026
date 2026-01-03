@@ -13,6 +13,8 @@ If you want to help, collaborate, or suggest ideas, feel free to reach out!
 
 Discord: MonaniAKR
 
+[YouTube](https://www.youtube.com/@AkiraMonaniStudies)
+
 [X/Twitter](https://twitter.com/monaniakr)
 
 [LinkedIn](https://www.linkedin.com/in/ysaac-juarez-de-andrade-9b822030b/)
