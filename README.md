@@ -37,5 +37,5 @@ If you want to help, collaborate, or suggest ideas, feel free to reach out!
 **Day 4** — A calculator that accepts the operators **+**, **-**, **/**, **x**, and **\*\***.  
 *Difficulty: 4/10*
 
-**Day 5** — A Python program that accepts a float or integer USD amount via CLI and returns its Bitcoin value using a real-time *API**.
+**Day 5** — A Python program that accepts a float or integer USD amount via CLI and returns its Bitcoin value using a real-time API. 
 *Difficulty: 6/10*
