@@ -39,3 +39,6 @@ If you want to help, collaborate, or suggest ideas, feel free to reach out!
 
 **Day 5** — A Python program that accepts a float or integer USD amount via CLI and returns its Bitcoin value using a real-time API.  
 *Difficulty: 6/10*
+
+**Day 6** — A Python game that simulates the classic Rock, Paper, Scissors game.  
+*Difficulty: 2/10*
