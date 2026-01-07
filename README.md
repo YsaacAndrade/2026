@@ -1,17 +1,42 @@
-# 2026 – Daily Projects
-
-Throughout 2026, I aim to build one project per day.
-The difficulty and complexity of the projects will increase over time.
-
-Some projects may take more than one day to complete.
-In those cases, I will break them into smaller parts, with each part representing a daily goal.
-
-Although Python will be my main language, I also plan to explore other languages.
-I want to learn Java because I enjoy its syntax, and I plan to use C to gain a deeper understanding of low-level concepts.
-
-If you want to help, collaborate, or suggest ideas, feel free to reach out!
+# 📅 2026 – Daily Projects
 
 ---
+
+## 🇺🇸 EN-US
+
+Throughout **2026**, I aim to build **one project per day**.
+
+The difficulty and complexity of the projects will increase progressively as I improve my skills and explore new concepts.
+
+Some projects may require more than one day to complete.  
+In those cases, the project will be divided into smaller parts, with each part representing a **daily milestone**.
+
+Although **Python** will be my primary language, I also plan to explore others:
+- **Java**, to deepen my understanding of object-oriented programming and because I enjoy its syntax  
+- **C**, to gain a stronger foundation in low-level concepts such as memory management and compilation  
+
+This repository serves as a record of continuous practice, learning, and technical growth.
+
+If you would like to collaborate, contribute ideas, or provide feedback, feel free to reach out.
+
+---
+
+## 🇧🇷 PT-BR
+
+Ao longo de **2026**, meu objetivo é desenvolver **um projeto por dia**.
+
+A dificuldade e a complexidade dos projetos aumentarão progressivamente conforme eu evoluir tecnicamente e explorar novos conceitos.
+
+Alguns projetos podem exigir mais de um dia para serem concluídos.  
+Nesses casos, o projeto será dividido em partes menores, onde cada parte representará um **objetivo diário**.
+
+Embora **Python** seja minha linguagem principal, também pretendo explorar outras:
+- **Java**, para aprofundar meus conhecimentos em programação orientada a objetos e por gostar da sua sintaxe  
+- **C**, com o objetivo de obter uma base mais sólida em conceitos de baixo nível, como gerenciamento de memória e compilação  
+
+Este repositório funciona como um registro de prática contínua, aprendizado e evolução técnica.
+
+Caso queira colaborar, sugerir ideias ou fornecer feedback, sinta-se à vontade para entrar em contato.
 
 ### LINKS
 
