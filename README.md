@@ -67,3 +67,7 @@ Caso queira colaborar, sugerir ideias ou fornecer feedback, sinta-se à vontade 
 
 **Day 6** — A Python game that simulates the classic Rock, Paper, Scissors game.  
 *Difficulty: 2/10*
+
+**Day 7** — A Python CLI program that validates password strength based on length and character diversity (Part 1).  
+*Difficulty: 5/10*
+
