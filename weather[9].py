@@ -2,6 +2,8 @@ import requests
 import sys
 import os
 
+### GET THE API_KEY ON https://openweathermap.org ###
+
 class Weather:
     def __init__(self, city):
         self.city = city
@@ -72,4 +74,5 @@ def correct_value(confirmed_request):
 
 
 if __name__ == "__main__":
+
     main()
