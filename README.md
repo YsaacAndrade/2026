@@ -74,4 +74,7 @@ Caso queira colaborar, sugerir ideias ou fornecer feedback, sinta-se à vontade 
 **Day 8** — A Python command-line application that consumes a real-world game pricing API, validates and normalizes user input, distinguishes between games and DLCs, and extracts real-time pricing data to display the lowest available price, the regular price, and a direct link to the store page offering the deal.  
 *Difficulty: 8.5/10*
 
+**Day 9** — A Python CLI program that fetches real-time weather data from an external API, validates user input, and displays temperature in Celsius and Fahrenheit.  
+*Difficulty: 6/10*
+
 
