@@ -83,4 +83,8 @@ Caso queira colaborar, sugerir ideias ou fornecer feedback, sinta-se à vontade 
 **Day 11** — A Python CLI guessing game where the program generates a random number between 0 and 100 and the user has 5 attempts to guess it correctly.  
 *Difficulty: 1/10*
 
+**Day 12** — Enhancement to the Python CLI weather app: added maximum and minimum temperature readings (°C and °F) alongside the current temperature using the OpenWeather API.  
+*Difficulty: 1/10*
+
+
 
