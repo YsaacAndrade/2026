@@ -86,5 +86,8 @@ Caso queira colaborar, sugerir ideias ou fornecer feedback, sinta-se à vontade 
 **Day 12** — Enhancement to the Python CLI weather app: added maximum and minimum temperature readings (°C and °F) alongside the current temperature using the OpenWeather API.  
 *Difficulty: 1/10*
 
+**Day 13** — **Day 13** — A C program that calculates the minimum number of coins needed to give change using U.S. denominations (25¢, 10¢, 5¢, 1¢). The program validates user input, repeatedly subtracts the largest possible coin value, and counts the total number of coins required until the change reaches zero.  
+*Difficulty: 5/10*
+
 
 
