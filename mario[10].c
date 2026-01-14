@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #include <stdio.h>
 #include <stdbool.h>
 
@@ -89,5 +89,3 @@ int main(void)
     }
     return 0;
 }
-
->>>>>>> 7da541f6bd82c4034928e78fa215699c606660b5
