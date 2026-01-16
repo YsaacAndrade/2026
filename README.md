@@ -95,5 +95,9 @@ Caso queira colaborar, sugerir ideias ou fornecer feedback, sinta-se à vontade 
 **Day 15** — A Python CLI program that simulates a Coke vending machine. The user inserts coins (5, 10, or 25 cents) until the total cost of 50 cents is paid. The program continuously displays the remaining amount due and, once paid, returns the correct change if the user overpays.  
 *Difficulty: 0/10*
 
+**Day 16** — A Python CLI tool that validates an email address using an external validation library, safely handles invalid input, and extracts the username and domain from a valid email.  
+*Difficulty: 1/10*
+
+
 
 
