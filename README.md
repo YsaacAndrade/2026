@@ -92,4 +92,8 @@ Caso queira colaborar, sugerir ideias ou fornecer feedback, sinta-se à vontade 
 **Day 14** — A Python CLI program that simulates a food ordering system using a predefined menu and prices. The program continuously accepts user input, normalizes item names, accumulates the total cost, and displays the running total formatted as currency until the input is terminated.  
 *Difficulty: 2/10* 
 
+**Day 15** — A Python CLI program that simulates a Coke vending machine. The user inserts coins (5, 10, or 25 cents) until the total cost of 50 cents is paid. The program continuously displays the remaining amount due and, once paid, returns the correct change if the user overpays.  
+*Difficulty: 0/10*
+
+
 
