@@ -101,6 +101,10 @@ Caso queira colaborar, sugerir ideias ou fornecer feedback, sinta-se à vontade 
 **Day 17** — A Python class that simulates a cookie jar with limited capacity.  
 *Difficulty: 2/10*
 
+**Day 18** — A Python script based on a CS50 lesson that generates a personalized PDF certificate using user input and an image.  
+*Difficulty: 3/10*
+
+
 
 
 
