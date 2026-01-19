@@ -98,6 +98,10 @@ Caso queira colaborar, sugerir ideias ou fornecer feedback, sinta-se à vontade 
 **Day 16** — A Python CLI tool that validates an email address using an external validation library, safely handles invalid input, and extracts the username and domain from a valid email.  
 *Difficulty: 1/10*
 
+**Day 17** — A Python class that simulates a cookie jar with limited capacity.  
+*Difficulty: 2/10*
+
+
 
 
 
