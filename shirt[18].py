@@ -2,7 +2,9 @@ from fpdf import FPDF
 
 '''
 
-get the shirtficate.png on https://cs50.harvard.edu/python/psets/6/shirt/shirt.png
+get the shirtficate.png on:
+
+https://cs50.harvard.edu/python/psets/6/shirt/shirt.png
 
 '''
 
