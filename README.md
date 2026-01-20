@@ -104,6 +104,10 @@ Caso queira colaborar, sugerir ideias ou fornecer feedback, sinta-se à vontade 
 **Day 18** — A Python script based on a CS50 lesson that generates a personalized PDF certificate using user input and an image.  
 *Difficulty: 3/10*
 
+**Day 19** — A Python script based on a CS50 lesson that validates whether a string is a valid IPv4 address.  
+*Difficulty: 1/10*
+
+
 
 
 
