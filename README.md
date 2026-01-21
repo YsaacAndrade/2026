@@ -107,6 +107,10 @@ Caso queira colaborar, sugerir ideias ou fornecer feedback, sinta-se à vontade 
 **Day 19** — A Python script based on a CS50 lesson that validates whether a string is a valid IPv4 address.  
 *Difficulty: 1/10*
 
+**Day 20** — A Python script based on a CS50 lesson that calculates the number of minutes since a given birth date and expresses the result in words.  
+*Difficulty: 4/10*
+
+
 
 
 
