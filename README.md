@@ -110,6 +110,8 @@ Caso queira colaborar, sugerir ideias ou fornecer feedback, sinta-se à vontade 
 **Day 20** — A Python script based on a CS50 lesson that calculates the number of minutes since a given birth date and expresses the result in words.  
 *Difficulty: 4/10*
 
+**Day 21** — A Python script based on a CS50 lesson that converts time ranges from 12-hour AM/PM format to 24-hour format.  
+*Difficulty: 5/10*
 
 
 
