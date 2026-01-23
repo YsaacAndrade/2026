@@ -113,6 +113,10 @@ Caso queira colaborar, sugerir ideias ou fornecer feedback, sinta-se à vontade 
 **Day 21** — A Python script based on a CS50 lesson that converts time ranges from 12-hour AM/PM format to 24-hour format.  
 *Difficulty: 5/10*
 
+**Day 22** — A Python script based on a CS50 lesson that accepts user-input to act like a supermarket-list.  
+*Difficulty: 1.2/10*
+
+
 
 
 
