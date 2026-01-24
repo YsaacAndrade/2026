@@ -119,6 +119,8 @@ Caso queira colaborar, sugerir ideias ou fornecer feedback, sinta-se à vontade 
 **Day 23** — A Python program that prompts the user for a GitHub username, fetches their public activity using the GitHub Events API, and displays the most recent event and repository. This is the first part of a larger project that will be expanded over time.  
 *Difficulty: 1/10*
 
+**Day 24** — A Python script based on a CS50 lesson that reads a CSV file from the command line and displays its contents as a formatted table.  
+*Difficulty: 3/10*
 
 
 
