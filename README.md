@@ -116,6 +116,10 @@ Caso queira colaborar, sugerir ideias ou fornecer feedback, sinta-se à vontade 
 **Day 22** — A Python script based on a CS50 lesson that accepts user-input to act like a supermarket-list.  
 *Difficulty: 1.2/10*
 
+**Day 23** — A Python program that prompts the user for a GitHub username, fetches their public activity using the GitHub Events API, and displays the most recent event and repository. This is the first part of a larger project that will be expanded over time.  
+*Difficulty: 1/10*
+
+
 
 
 
