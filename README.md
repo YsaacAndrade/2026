@@ -1,4 +1,4 @@
-# 📅 2026 – Daily Projects
+#  2026 – Daily Projects
 
 ---
 
