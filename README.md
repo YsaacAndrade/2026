@@ -122,6 +122,9 @@ Caso queira colaborar, sugerir ideias ou fornecer feedback, sinta-se à vontade 
 **Day 24** — A Python script based on a CS50 lesson that reads a CSV file from the command line and displays its contents as a formatted table.  
 *Difficulty: 3/10*
 
+**Day 25** — A Python script based on a CS50 lesson that renders user input as ASCII art using pyfiglet, with optional font selection via command-line arguments.  
+*Difficulty: 0/10 (Sunday mode)*
+
 
 
 
