@@ -125,6 +125,9 @@ Caso queira colaborar, sugerir ideias ou fornecer feedback, sinta-se à vontade 
 **Day 25** — A Python script based on a CS50 lesson that renders user input as ASCII art using pyfiglet, with optional font selection via command-line arguments.  
 *Difficulty: 0/10 (Sunday mode)*
 
+**Day 26** — A Python script that counts the number of lines of actual code in a Python file, ignoring comments and blank lines.  
+*Difficulty: 1/10*
+
 
 
 
