@@ -128,6 +128,9 @@ Caso queira colaborar, sugerir ideias ou fornecer feedback, sinta-se à vontade 
 **Day 26** — A Python script that counts the number of lines of actual code in a Python file, ignoring comments and blank lines.  
 *Difficulty: 1/10*
 
+**Day 27** — A C script that checks if there are more or fewer than two arguments, the first part of the Caesar problem from CS50x.
+*Difficulty: 3/10*
+
 
 
 
