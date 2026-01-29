@@ -131,6 +131,10 @@ Caso queira colaborar, sugerir ideias ou fornecer feedback, sinta-se à vontade 
 **Day 27** — A C script that checks if there are more or fewer than two arguments, the first part of the Caesar problem from CS50x.  
 *Difficulty: 3/10*
 
+**Day 28** — A Java script that act like a simple calculator, accepting operations with (+, -, * and /). (1st Java code)  
+*Difficulty: 1/10*
+
+
 
 
 
