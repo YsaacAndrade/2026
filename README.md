@@ -77,7 +77,7 @@ Caso queira colaborar, sugerir ideias ou fornecer feedback, sinta-se à vontade 
 **Day 9** — A Python CLI program that fetches real-time weather data from an external API, validates user input, and displays temperature in Celsius and Fahrenheit.  
 *Difficulty: 6/10*
 
-**Day 10** — A C program that prompts the user for a height between 1 and 8 and prints a double pyramid using `#`, inspired by the CS50 Mario problem.  
+**Day 10** — A C program that prompts the user for a height between 1 and 8 and prints a double pyramid using `#`, inspired by the CS50 Mario problem. (1st C code)  
 *Difficulty: 7.5/10*
 
 **Day 11** — A Python CLI guessing game where the program generates a random number between 0 and 100 and the user has 5 attempts to guess it correctly.  
