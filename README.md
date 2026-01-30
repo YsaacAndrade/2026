@@ -134,7 +134,7 @@ Caso queira colaborar, sugerir ideias ou fornecer feedback, sinta-se à vontade 
 **Day 28** — A Java script that act like a simple calculator, accepting operations with (+, -, * and /). (1st Java code)  
 *Difficulty: 1/10*
 
-**Day 28** — A Java script based on my very first lesson of University of Helsinki’s Java course.
+**Day 28** — A Java script based on my very first lesson of University of Helsinki’s Java course.  
 *Difficulty: -5/10*
 
 
