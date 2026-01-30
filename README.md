@@ -138,7 +138,7 @@ Caso queira colaborar, sugerir ideias ou fornecer feedback, sinta-se à vontade 
 *Difficulty: -5/10*
 
 **Day 30** — The second part of a C script based on CS50X problem "Caesar", Basically, encrypt any message using the Caesar cipher method.  
-*Difficulty: 6/10
+*Difficulty: 6/10*
 
 
 
