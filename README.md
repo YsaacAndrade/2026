@@ -140,7 +140,7 @@ Caso queira colaborar, sugerir ideias ou fornecer feedback, sinta-se à vontade 
 **Day 30** — The second part of a C script based on CS50X problem "Caesar", Basically, encrypt any message using the Caesar cipher method.  
 *Difficulty: 6/10*
 
-**Day 31** — First part of a C script that work like a Scrabble game, based on a CS50X lesson.  FIRST MONTH COMPLETED!!!! :))
+**Day 31** — First part of a C script that work like a Scrabble game, based on a CS50X lesson.  FIRST MONTH COMPLETED!!!! :))  
 *Difficulty: 2/10*
 
 
